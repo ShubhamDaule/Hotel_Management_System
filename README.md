@@ -1,4 +1,4 @@
-# Hotel_Management_System# Django API Project Setup and Basic Workflow
+# Hotel_Management_System
 
 This guide will walk you through the steps to create a Django project, add views, templates, and models, and integrate them into the administration site.
 
