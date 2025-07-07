@@ -1,4 +1,5 @@
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Welcome to the Motel Website!")
+    print("Website is running")
+    return HttpResponse("Welcome to the Motel Website!!!!")
